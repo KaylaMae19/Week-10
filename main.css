@@ -1,0 +1,32 @@
+.background1 {
+  background-color: #c0dbe2;
+}
+
+.div1 {
+  border-style: solid;
+  border-color: #354e61;
+  border-width: 10px;
+  border-radius: 2px;
+  padding: 3px;
+  background-color: #538495;
+  color: white;
+}
+
+.div2 {
+  border-style: solid;
+  border-color: rgb(250, 250, 252);
+  padding: 7px;
+}
+
+.div3 {
+  color: white;
+  font-style: bold;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div4 {
+  color: white;
+  font-style: bold;
+  font-size: 20px;
+}
